@@ -6,12 +6,15 @@ SmartTax TR, Shopify Türkiye pazarındaki mağazaların Vergi Usul Kanunu (VUK)
 
 ### Müşteri Deneyimi (Frontend)
 Müşterilerin sepet aşamasında vergi kimlik numaralarını girmelerini sağlayan, Bireysel ve Kurumsal ayrımı sunan kullanıcı arayüzü.
+<img width="1507" height="726" alt="Ekran görüntüsü 2026-02-07 191619" src="https://github.com/user-attachments/assets/bd00beaf-d12f-492e-a904-51877690cf48" />
 
 ### Sipariş Yönetimi ve Etiketleme
 Doğrulanan verilerin Shopify Admin panelinde otomatik etiketlenmesi (TCKN_ONAYLI, VKN_ONAYLI) ve sipariş detayına işlenmesi.
+<img width="1647" height="706" alt="Sipariş etiketleme" src="https://github.com/user-attachments/assets/5ec27d51-6f0d-4bbc-9aac-96abe6f43727" />
 
 ### Yönetim Paneli
 Mağaza sahipleri için uygulama ayarlarının (limitler, renk, KVKK metni) yönetildiği entegre dashboard.
+<img width="1622" height="824" alt="Yönetim paneli" src="https://github.com/user-attachments/assets/ac7a5038-ff5b-4ccd-93aa-1e664e77dd04" />
 
 ## 🎯 Temel Özellikler
 
